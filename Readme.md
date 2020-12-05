@@ -1,1 +1,1 @@
-These projects are from the first coding class I have ever taken implementing java basics.
+These projects are from the first coding class I have ever taken implementing object-oriented java techniques.
