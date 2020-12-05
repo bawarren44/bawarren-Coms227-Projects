@@ -1,0 +1,1 @@
+This project implements the video game quell. Quell is a puzzle game where you start in a set level with spikes, walls, teleporters, and coins. You must colect the coins to end the level and cannot land on a spike the direction you pressed. https://www.youtube.com/watch?v=2vmxQtmhIa0&feature=youtu.be Not everything in the video is implemented in this code.
