@@ -1,0 +1,1 @@
+This project implements a simple tennis game where a rally begins when a serve is successful. Rally ends when the ball is either out of bounds or not hit before bouncing twice. Simple Tennis scoring used to keep track of score.
